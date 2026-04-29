@@ -1,6 +1,6 @@
 import java.awt.*;
 import java.awt.event.*;
-public class p2 {
+public class p3 {
     public static void main(String[] args) {
         // Initialize Container
         Frame f = new Frame("Buttons"); //Frame
