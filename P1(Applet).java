@@ -1,7 +1,7 @@
 import java.applet.Applet;
 import java.awt.*;
 //xml code
-/*<applet code="applet.class" width="520" height="320"></applet>*/
+/*<applet code="p1.class" width="520" height="320"></applet>*/
 public class p1 extends Applet {
     Image img;
     //Intialization
