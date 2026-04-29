@@ -1,4 +1,3 @@
-package arjunkrprajapati;
 import java.awt.*;
 import java.awt.event.*;
 public class p2 {
