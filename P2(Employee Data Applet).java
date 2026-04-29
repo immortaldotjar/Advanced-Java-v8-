@@ -3,13 +3,13 @@ import java.awt.Font;
 import java.awt.Graphics;
 //xml code
 /*
-<applet code="EmpApplet.class" width="500" height="230">
+<applet code="p2.class" width="500" height="230">
     <param name="empName" value="John Doe">
     <param name="designation" value="Software Engineer">
     <param name="salary" value="70000">
 </applet>
 */
-public class EmpApplet extends Applet {
+public class p2 extends Applet {
     String name, desig;
     double sal, tax;
     public void init() {
