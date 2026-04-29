@@ -2,7 +2,7 @@ import java.applet.Applet;
 import java.awt.*;
 //xml code
 /*<applet code="applet.class" width="520" height="320"></applet>*/
-public class applet extends Applet {
+public class p1 extends Applet {
     Image img;
     //Intialization
     public void init() {
