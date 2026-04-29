@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-public class p4 {
+public class p5 {
     public static void main(String[] args) {
         // Frame 1 
         JFrame f1 = new JFrame("Frame 1");
