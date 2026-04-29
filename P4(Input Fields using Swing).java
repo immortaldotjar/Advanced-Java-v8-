@@ -1,6 +1,6 @@
 import java.awt.*;
 import javax.swing.*;
-public class p3 {
+public class p4 {
     public static void main(String[] args) {
         // Containers
         JFrame f = new JFrame("Swing");
